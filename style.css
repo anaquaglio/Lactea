@@ -1,0 +1,44 @@
+body 
+{
+  background-color: #ecdecc;
+  text-align: center;
+}
+h1 
+{
+  color: rgb(107, 80, 54);
+  border-style: solid;
+  border-color:rgb(177, 131, 78);  
+  border: width 5px;px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: ;
+  font-size:40px;
+  color: rgb(212, 164, 100);
+  background: white;
+}
+a
+{
+  color: rgb(163, 115, 83);
+  font-size: 20px;
+  border-style: ;
+  border-color: rgb(163, 115, 83);
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: rgb(107, 80, 54);
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: rgb(163, 115, 83);
+    font-size: 20px;
+}
+
